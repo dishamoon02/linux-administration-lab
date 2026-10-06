@@ -12,7 +12,7 @@ The goal is to build and demonstrate practical skills required for Linux System 
 
 - Linux: Rocky Linux 9
 - Virtualisation: VirtualBox, Azure VM, VMware
-- Shell: Bash 
+- Shell: Bash, Powershell, Azure cloud CLI
 - Version Control: Git & GitHub
 
 ## 📚 Labs
@@ -20,12 +20,15 @@ The goal is to build and demonstrate practical skills required for Linux System 
 | Day | Topic | Status |
 |---|---|---|
 | Day 01 | Linux Fundamentals | ✅ Completed |
-| Day 02 | Users & Groups | 🔄 In Progress |
-| Day 03 | Files & Permissions | ⏳ |
-| Day 04 | Storage & LVM | ⏳ |
-| Day 05 | Networking | ⏳ |
-| Day 06 | Systemd & Services | ⏳ |
-| Day 07 | SELinux | ⏳ |
+| Day 02 | Users, Groups, Permissions & ACLs | ✅ Completed |
+| Day 03 | Processes, Services & systemd | ✅ Completed |
+| Day 04 | Package Management, Repositories & SSH | ✅ Completed |
+| Day 05 | Linux Networking Fundamentals | ⏳ Upcoming |
+| Day 06 | Storage & Filesystems | ⏳ Upcoming |
+| Day 07 | LVM | ⏳ Upcoming |
+| Day 08 | SELinux | ⏳ Upcoming |
+| Day 09 | firewalld & Security | ⏳ Upcoming |
+| Day 10 | Logs & Troubleshooting | ⏳ Upcoming |
 
 ## 🛠️ Topics Covered
 
@@ -46,8 +49,8 @@ The goal is to build and demonstrate practical skills required for Linux System 
 ## 🔧 Tools
 
 - Rocky Linux
-- RHEL
-- Bash
+- RHEL /ubuntu
+- Bash / powershell
 - Git
 - GitHub
 - Ansible
